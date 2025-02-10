@@ -47,7 +47,9 @@
         "sebastian/object-enumerator": "^7.0-dev",
         "sebastian/type": "^6.0-dev",
         "sebastian/version": "^6.0-dev",
-        "staabm/side-effects-detector": "^1.0.5"
+        "staabm/side-effects-detector": "^1.0.5",
+        "webmozart/glob": "^4.7",
+        "webmozart/path-util": "^2.3"
     },
     "config": {
         "platform": {
